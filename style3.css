@@ -21,3 +21,10 @@ video {
     visibility: visible;
     vertical-align: middle;
 }
+a {
+    font-size: large;
+    font-weight: bold;
+    background: scroll;
+    color: blue;
+    
+}

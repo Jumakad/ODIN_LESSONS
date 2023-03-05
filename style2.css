@@ -17,5 +17,9 @@
     background-color: rgb(246, 81, 204);
     font-size: 24px;
 }body {
-    background-color: black;
+    background-color: rgb(184, 112, 112);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkfxqJ-pRpXA_HtStTPEi3GiFD6ZcmSKfl8A&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
 }
